@@ -1,6 +1,6 @@
 # Presentation: Bosonization in 1+1D and the Sine-Gordon Model
 
-This repository contains the slides for a group meeting presentation delivered at the National Taiwan University (NTU) Department of Physics on May 14, 2025, by YUN-YEN, WU.
+This repository contains the slides for a group meeting presentation delivered at the National Taiwan University (NTU) Department of Physics by YUN-YEN, WU.
 
 ## Abstract
 
